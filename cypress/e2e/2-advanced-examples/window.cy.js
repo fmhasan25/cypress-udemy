@@ -19,4 +19,5 @@ context('Window', () => {
     // https://on.cypress.io/title
     cy.title().should('include', 'Kitchen Sink')
   })
+  
 })
