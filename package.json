@@ -1,0 +1,21 @@
+{
+  "name": "cypress-udemy",
+  "version": "1.0.0",
+  "description": "Automated software testing",
+  "main": "index.js",
+  "scripts": {
+    "cy:open": "cypress open",
+    "cy:run": "cypress run"
+  },
+  "keywords": [
+    "testing",
+    "cypress",
+    "automation"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^10.1.0",
+    "prettier": "^2.6.2"
+  }
+}
